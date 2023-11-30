@@ -1,0 +1,7 @@
+name = "AdventOfCode2023"
+uuid = "c66bdbb7-5f2e-4f38-8c76-c49121bfc1af"
+authors = ["andrea321123"]
+version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
